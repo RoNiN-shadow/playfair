@@ -10,5 +10,5 @@ cabal run
 
 # Use the CLI:
 ```
-cabal run -- <encrypt|decrypt> <KEY> <MESSAGE>
+cabal run -- playfair <encrypt|decrypt> <KEY> <MESSAGE>
 ```
